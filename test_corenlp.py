@@ -1,9 +1,4 @@
-from nlplogic.corenlp import (
-    search_wikipedia,
-    wikipedia_summary,
-    get_text_blob,
-    get_sentences,
-)
+from nlplogic.corenlp import get_sentences
 
 
 def test_get_sentences():
