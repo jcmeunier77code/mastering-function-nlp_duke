@@ -1,5 +1,14 @@
-ipython
+ipython==8.36.0
 textblob
 wikipedia
 pylance
 fire
+pytest
+pytest-cov
+pylint
+black
+flake8
+pycodestyle
+pyflakes
+
+
